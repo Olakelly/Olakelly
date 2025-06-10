@@ -56,8 +56,8 @@ I'm a passionate data analyst who loves transforming raw data into actionable in
 
 ### 🚀 Let's Connect
 
-- 📧 [Email me](olamidekthomas@yahoo.com)
-- 💼 [LinkedIn](mailto:https://www.linkedin.com/in/olamidekt/)
+- 📧 [Email me](mailto:olamidekthomas@yahoo.com)
+- 💼 [LinkedIn]https://www.linkedin.com/in/olamidekt/)
 - 🌐 [Tableau](https://public.tableau.com/app/profile/olamide.thomas/vizzes)
 
 ---
