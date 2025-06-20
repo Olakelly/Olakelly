@@ -8,7 +8,7 @@
 
 ### 💡 About Me
 
-I'm a passionate data analyst who loves transforming raw data into actionable insights. I enjoy working across tools like Excel, Tableau, Power BI, SQL, Azure, and Python to deliver value through dashboards, reports, and automated analytics pipelines.
+I'm a passionate data analyst who loves maths, ptoblem solving and transforming raw data into actionable insights. I enjoy working across tools like Excel, Tableau, Power BI, SQL, Azure, and Python to deliver value through dashboards, reports, and automated analytics pipelines.
 
 ---
 
